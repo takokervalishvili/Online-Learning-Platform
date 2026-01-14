@@ -1,0 +1,8 @@
+Frontend/dist/
+Frontend/.angular/
+Frontend/node_modules/
+.env
+Backend/uploads/*
+Backend/obj
+Backend/bin
+.cache/
